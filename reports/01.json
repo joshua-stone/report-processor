@@ -1,0 +1,43 @@
+{
+	"defaults": {
+	    "answer_types": {
+		"2": "multi",
+		"9": "multi",
+		"10": "multi",
+		"11": "multi",
+		"12": "multi",
+		"13": "multi",
+		"14": "multi",
+                "15": "multi",
+                "16": "multi",
+                "17": "multi",
+                "18": "multi",
+                "23": "multi",
+		"24": "multi",
+		"26": "multi",
+		"28": "multi",
+                "29": "multi",
+		"30": "multi",
+	        "31": "multi",
+		"34": "multi",
+		"35": "multi",
+		"39": "multi",
+		"40": "multi",
+		"42": "multi",
+		"44": "multi"
+	    },
+            "ignore": {
+                "31": ["n/a", ""]
+            }
+	},
+        "reports": [
+        {
+                "title": "All areas",
+                "filter": {
+                },
+                "select": [
+		    "31"
+		]
+        }
+        ]
+}
